@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107915999232",
+    "firebase_url": "https://privateportal-bb133.firebaseio.com",
+    "project_id": "privateportal-bb133",
+    "storage_bucket": "privateportal-bb133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107915999232:android:ea514409346f72af",
+        "android_client_info": {
+          "package_name": "com.project.se380mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107915999232-poveqef20ddhbv4oe9gcpl1vf0t3e5up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDziAGJCo079Mxyk3-t3giKFmvROcxBgig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107915999232-poveqef20ddhbv4oe9gcpl1vf0t3e5up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
